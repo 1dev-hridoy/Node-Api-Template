@@ -1,0 +1,19 @@
+{
+  "name": "my-api",
+  "version": "1.0.0",
+  "description": "A simple Node.js API with multiple endpoints",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "api"
+  ],
+  "author": "Your Name",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
